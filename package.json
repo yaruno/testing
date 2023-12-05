@@ -1,0 +1,25 @@
+{
+  "name": "whip-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "18": "^0.0.0",
+    "@eyevinn/whip-endpoint": "^1.3.1",
+    "@roamhq/wrtc": "^0.7.1",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "http": "^0.0.1-security",
+    "install": "^0.13.0",
+    "node-datachannel": "^0.5.2",
+    "node-pre-gyp": "^0.17.0",
+    "npm": "^10.2.4",
+    "socket.io": "^4.7.2",
+    "wrtc": "^0.4.7"
+  }
+}
